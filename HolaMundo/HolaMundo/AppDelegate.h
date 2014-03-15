@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  helloworld
+//  HolaMundo
 //
-//  Created by eoncoder on 14/03/14.
-//  Copyright (c) 2014 eoncoder.com. All rights reserved.
+//  Created by @eoncoder on 15/03/14.
+//  Copyright (c) 2014 eoncoder. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

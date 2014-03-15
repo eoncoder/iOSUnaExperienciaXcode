@@ -1,18 +1,18 @@
 //
-//  helloworldTests.m
-//  helloworldTests
+//  HolaMundoTests.m
+//  HolaMundoTests
 //
-//  Created by eoncoder on 14/03/14.
-//  Copyright (c) 2014 eoncoder.com. All rights reserved.
+//  Created by @eoncoder on 15/03/14.
+//  Copyright (c) 2014 eoncoder. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface helloworldTests : XCTestCase
+@interface HolaMundoTests : XCTestCase
 
 @end
 
-@implementation helloworldTests
+@implementation HolaMundoTests
 
 - (void)setUp
 {
